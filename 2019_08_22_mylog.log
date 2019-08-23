@@ -1,0 +1,140 @@
+2019-08-22 09:33:13.805231 [info]: adjust timer once
+2019-08-22 09:33:13.805361 [info]: GET / HTTP/1.1
+2019-08-22 09:33:13.805381 [info]: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+2019-08-22 09:33:13.805388 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+2019-08-22 09:33:13.805393 [info]: Accept: */*
+2019-08-22 09:33:13.805397 [info]: oop!unknow header: Accept: */*
+2019-08-22 09:33:13.805401 [info]: Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+2019-08-22 09:33:13.805405 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+2019-08-22 09:33:13.805410 [info]: Host: 47.100.186.87:6666
+2019-08-22 09:33:13.805414 [info]: Connection: keep-alive
+2019-08-22 09:33:13.805418 [info]: 
+2019-08-22 09:33:13.805443 [info]: request:HTTP/1.1 200 OK
+
+2019-08-22 09:33:13.805448 [info]: request:HTTP/1.1 200 OK
+Content-Length:649
+
+2019-08-22 09:33:13.805452 [info]: request:HTTP/1.1 200 OK
+Content-Length:649
+Connection:keep-alive
+
+2019-08-22 09:33:13.805456 [info]: request:HTTP/1.1 200 OK
+Content-Length:649
+Connection:keep-alive
+
+
+2019-08-22 09:33:14.953874 [info]: timer tick
+2019-08-22 09:33:19.954006 [info]: timer tick
+2019-08-22 09:33:24.954141 [info]: timer tick
+2019-08-22 09:33:29.954306 [info]: timer tick
+2019-08-22 09:33:29.954461 [info]: close fd 13
+2019-08-22 09:33:40.941646 [info]: adjust timer once
+2019-08-22 09:33:40.941716 [info]: GET /judge.html HTTP/1.1
+2019-08-22 09:33:40.941726 [info]: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+2019-08-22 09:33:40.941734 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+2019-08-22 09:33:40.941739 [info]: Accept: */*
+2019-08-22 09:33:40.941744 [info]: oop!unknow header: Accept: */*
+2019-08-22 09:33:40.941749 [info]: Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+2019-08-22 09:33:40.941753 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+2019-08-22 09:33:40.941758 [info]: Host: 47.100.186.87:6666
+2019-08-22 09:33:40.941763 [info]: Connection: keep-alive
+2019-08-22 09:33:40.941767 [info]: 
+2019-08-22 09:33:40.941796 [info]: request:HTTP/1.1 200 OK
+
+2019-08-22 09:33:40.941802 [info]: request:HTTP/1.1 200 OK
+Content-Length:649
+
+2019-08-22 09:33:40.941806 [info]: request:HTTP/1.1 200 OK
+Content-Length:649
+Connection:keep-alive
+
+2019-08-22 09:33:40.941811 [info]: request:HTTP/1.1 200 OK
+Content-Length:649
+Connection:keep-alive
+
+
+2019-08-22 09:33:44.954751 [info]: timer tick
+2019-08-22 09:33:49.227021 [info]: adjust timer once
+2019-08-22 09:33:49.227093 [info]: GET /index.html HTTP/1.1
+2019-08-22 09:33:49.227106 [info]: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; rv:11.0) like Gecko
+2019-08-22 09:33:49.227113 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; rv:11.0) like Gecko
+2019-08-22 09:33:49.227119 [info]: Accept: */*
+2019-08-22 09:33:49.227124 [info]: oop!unknow header: Accept: */*
+2019-08-22 09:33:49.227129 [info]: Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+2019-08-22 09:33:49.227134 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+2019-08-22 09:33:49.227139 [info]: Host: 47.100.186.87:6666
+2019-08-22 09:33:49.227144 [info]: Connection: keep-alive
+2019-08-22 09:33:49.227148 [info]: 
+2019-08-22 09:33:49.954887 [info]: timer tick
+2019-08-22 09:33:54.955025 [info]: timer tick
+2019-08-22 09:33:59.955169 [info]: timer tick
+2019-08-22 09:33:59.955285 [info]: close fd 13
+2019-08-22 09:34:04.955394 [info]: timer tick
+2019-08-22 09:34:04.955472 [info]: close fd 14
+2019-08-22 09:34:31.623478 [info]: adjust timer once
+2019-08-22 09:34:31.623564 [info]: GET / HTTP/1.0
+2019-08-22 09:34:31.623575 [info]: request:HTTP/1.1 404 Not Found
+
+2019-08-22 09:34:31.623581 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+
+2019-08-22 09:34:31.623594 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+2019-08-22 09:34:31.623600 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+
+2019-08-22 09:34:31.623604 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+
+2019-08-22 09:34:34.955902 [info]: timer tick
+2019-08-22 09:34:39.956051 [info]: timer tick
+2019-08-22 09:34:44.956185 [info]: timer tick
+2019-08-22 09:36:00.054525 [info]: adjust timer once
+2019-08-22 09:36:00.054655 [info]: GET /log.html HTTP/1.1
+2019-08-22 09:36:00.054677 [info]: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+2019-08-22 09:36:00.054685 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+2019-08-22 09:36:00.054690 [info]: Accept: */*
+2019-08-22 09:36:00.054694 [info]: oop!unknow header: Accept: */*
+2019-08-22 09:36:00.054699 [info]: Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+2019-08-22 09:36:00.054703 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+2019-08-22 09:36:00.054708 [info]: Host: 47.100.186.87:6666
+2019-08-22 09:36:00.054713 [info]: Connection: keep-alive
+2019-08-22 09:36:00.054717 [info]: 
+2019-08-22 09:36:00.054745 [info]: request:HTTP/1.1 200 OK
+
+2019-08-22 09:36:00.054751 [info]: request:HTTP/1.1 200 OK
+Content-Length:760
+
+2019-08-22 09:36:00.054755 [info]: request:HTTP/1.1 200 OK
+Content-Length:760
+Connection:keep-alive
+
+2019-08-22 09:36:00.054759 [info]: request:HTTP/1.1 200 OK
+Content-Length:760
+Connection:keep-alive
+
+
+2019-08-22 09:36:00.809339 [info]: timer tick
+2019-08-22 09:43:45.639615 [info]: adjust timer once
+2019-08-22 09:43:45.639792 [info]: GET /2check.cgi HTTP/1.1
+2019-08-22 09:43:45.639848 [info]: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+2019-08-22 09:43:45.639868 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+2019-08-22 09:43:45.639877 [info]: Accept: */*
+2019-08-22 09:43:45.639885 [info]: oop!unknow header: Accept: */*
+2019-08-22 09:43:45.639893 [info]: Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+2019-08-22 09:43:45.639901 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+2019-08-22 09:43:45.639909 [info]: Host: 47.100.186.87:6666
+2019-08-22 09:43:45.639916 [info]: Connection: keep-alive
+2019-08-22 09:43:45.639924 [info]: 
+2019-08-22 09:43:48.420302 [info]: timer tick
+2019-08-22 09:43:53.420443 [info]: timer tick
+2019-08-22 09:43:58.420633 [info]: timer tick
+2019-08-22 09:44:03.420784 [info]: timer tick
+2019-08-22 09:44:03.420874 [info]: close fd 13
